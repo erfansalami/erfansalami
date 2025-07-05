@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi, I'm Erfan Salami  
+🎓 Computer Engineering student at Ferdowsi University of Mashhad (2nd semester)  
+💻 Passionate about backend development, problem solving, and system design  
+🚀 Currently learning Java and Spring Boot in depth  
+🎮 Built JavaFX-based games like Pipe Puzzle and a PvZ clone (university projects)
 
-<!--
-**erfansalami/erfansalami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🧠 Skills
+- **Languages**: Java, Python, C (basic to intermediate)
+- **Concepts**: OOP, Algorithms & Data Structures, Socket Programming
+- **Tools**: Git, GitHub, Postman, MySQL
+- **Frameworks**: Spring Boot (currently learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📂 Projects
+-  **Pipe Puzzle Game** *(JavaFX)*: Puzzle game with undo and win/loss logic
+-  **Plants vs. Zombies Clone** *(JavaFX)*: PvZ-style tower defense game with zombie AI and shooting logic
+-  **Telegram Bot** *(Java)*: A "Name Game" bot using Telegram API (in progress)
+
+
+## 🎯 My Goal
+To become a skilled Java backend developer.  
+I'm currently looking for internship opportunities and excited to work on real-world backend systems.
+
+
+📬 **Contact**: salamierfan0@email.com
