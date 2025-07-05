@@ -6,7 +6,7 @@
 
 
 ## 🧠 Skills
-- **Languages**: Java, Python, C (basic to intermediate)
+- **Languages**: Java, C (basic to intermediate)
 - **Concepts**: OOP, Algorithms & Data Structures, Socket Programming
 - **Tools**: Git, GitHub, Postman, MySQL
 - **Frameworks**: Spring Boot (currently learning)
