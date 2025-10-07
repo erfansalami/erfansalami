@@ -1,8 +1,8 @@
 👋 Hi, I'm Erfan Salami
 🎓 Computer Engineering student at Ferdowsi University of Mashhad (3rd semester)
-💻 I enjoy building Java applications and learning how software systems work from the inside out.
-🚀 Currently improving my skills in Java, Object-Oriented Programming, and Spring Boot.
-🎮 Developed small JavaFX-based games such as Pipe Puzzle and a Plants vs. Zombies clone as personal and university projects.
+💻 I’m passionate about building Java applications and exploring how software systems work from the inside out.
+🚀 Currently enhancing my skills in Java, Object-Oriented Programming, and Spring Boot.
+🎮 I’ve developed several JavaFX-based games — including Pipe Puzzle and a Plants vs. Zombies clone — as part of personal and university projects.
 
 
 ## 🧠 Skills
